@@ -1,0 +1,5 @@
+I have updated the snake hyperlink to be run in the same page so that the user finds easy to use
+When the score is highest it is shown by catching from the data base inorder to do see so snake.js when the gamescore.php is being loaded I passed
+score on to the url to make it happen. There was no way around
+
+for the database i have used columns id, username,password,email,snake_score so please update the score according
